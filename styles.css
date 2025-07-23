@@ -1,6 +1,8 @@
 body {
     font-size: 100%;
     font-family: Roboto, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0px;
+    margin: 0px;
 }
 
 .dark-text {
@@ -131,4 +133,9 @@ body {
 
 .sec4-con-right {
     border: white solid 2px;
+}
+
+.footer {
+    background-color: #1f2937;
+    font-size: 14px;
 }
