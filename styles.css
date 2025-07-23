@@ -49,3 +49,33 @@ body {
 .sec1-container-right {
     background-color: dimgray;
 }
+
+.section2 {
+    background-color: white;
+}
+
+.sec2-title {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+
+.sec2-images-container {
+    display: flex;
+}
+
+.sec2-image-item-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.sec2-image-item {
+    height: 300px;
+    width: 300px;
+    border: #3882f6 solid 2px;
+}
+
+.sec2-image-item-caption {
+    font-size: 14px;
+    color: black;
+}
