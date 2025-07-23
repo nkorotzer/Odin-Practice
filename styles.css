@@ -77,5 +77,27 @@ body {
 
 .sec2-image-item-caption {
     font-size: 14px;
-    color: black;
+    color: #1f2937;
+}
+
+.section3 {
+    background-color: #e5e7eb;
+}
+
+.sec3-quote-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.sec3-quote-top {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.sec3-quote-bottom {
+    font-size: 18px;
+    color: #1f2937;
+    font-weight: bold;
 }
