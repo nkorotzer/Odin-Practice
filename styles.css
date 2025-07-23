@@ -7,6 +7,16 @@ body {
     color: #1f2937;
 }
 
+/* used for titles */
+.light-text-1 {
+    color: #f9faf8;
+}
+
+/* used for smaller text */
+.light-text-2 {
+    color: #e5e7eb;
+}
+
 .header {
     background-color: #1f2937;
     display: flex;
@@ -20,12 +30,10 @@ body {
 
 .header-logo {
     font-size: 24px;
-    color: #f9faf8;
 }
 
 .sub-text {
     font-size: 18px;
-    color: #e5e7eb;
 }
 
 .section1 {
@@ -40,13 +48,11 @@ body {
 
 .sec1-left-top {
     font-size: 48px;
-    color: #f9faf8;
     font-weight: 900;
 }
 
 .sec1-left-bottom {
     font-size: 18px;
-    color: #e5e7eb;
     background-color: #3882f6;
 }
 
