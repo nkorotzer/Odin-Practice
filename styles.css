@@ -22,17 +22,20 @@ body {
 .header {
     background-color: #1f2937;
     display: flex;
-    padding: 0;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 15% 30px 15%;
+    gap: 20px;
 }
 
 .header-item {
-    flex: 1;
     margin: 0;
 }
 
 .header-logo {
     font-size: 24px;
     font-weight: bolder;
+    margin-right: auto;
 }
 
 .sub-text {
