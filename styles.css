@@ -45,11 +45,17 @@ body {
 .section1 {
     background-color: #1f2937;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 30px 15%;
 }
 
 .sec1-container-left {
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: start;
 }
 
 .sec1-left-top {
@@ -60,10 +66,17 @@ body {
 .sec1-left-bottom {
     font-size: 18px;
     background-color: #3882f6;
+    border-radius: 5px;
+    padding: 2px 30px;
 }
 
 .sec1-container-right {
+    display: flex;
     background-color: dimgray;
+    height: stretch;
+    width: stretch;
+    justify-content: center;
+    align-items: center;
 }
 
 .section2 {
