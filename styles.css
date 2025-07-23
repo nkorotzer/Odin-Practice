@@ -19,7 +19,33 @@ body {
     color: #f9faf8;
 }
 
-.header-link {
+.sub-text {
     font-size: 18px;
     color: #e5e7eb;
+}
+
+.section1 {
+    background-color: #1f2937;
+    display: flex;
+}
+
+.sec1-container-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.sec1-left-top {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+
+.sec1-left-bottom {
+    font-size: 18px;
+    color: #e5e7eb;
+    background-color: #3882f6;
+}
+
+.sec1-container-right {
+    background-color: dimgray;
 }
