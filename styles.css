@@ -148,18 +148,23 @@ body {
 }
 
 .section4 {
-    padding: 10px;
+    padding: 50px 15%;
     background-color: white;
 }
 
 .sec4-container {
     background-color: #3882f6;
     display: flex;
+    border-radius: 10px;
+    padding: 40px 100px;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .sec4-con-left {
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 
 .sec4-con-left-top {
@@ -168,7 +173,14 @@ body {
 }
 
 .sec4-con-right {
+    display: flex;
     border: white solid 2px;
+    border-radius: 5px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 5px 25px;
+    margin: 0;
 }
 
 .footer {
