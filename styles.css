@@ -125,6 +125,8 @@ body {
 
 .section3 {
     background-color: #e5e7eb;
+    padding: 100px 20%;
+    justify-content: center;
 }
 
 .sec3-quote-container {
@@ -135,12 +137,14 @@ body {
 .sec3-quote-top {
     font-size: 36px;
     font-style: italic;
-    font-weight: lighter;
+    font-weight: 350;
+    line-height: 1;
 }
 
 .sec3-quote-bottom {
-    font-size: 18px;
+    font-size: 24px;
     font-weight: bold;
+    text-align: end;
 }
 
 .section4 {
