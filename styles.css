@@ -185,5 +185,7 @@ body {
 
 .footer {
     background-color: #1f2937;
-    font-size: 14px;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px 15%;
 }
